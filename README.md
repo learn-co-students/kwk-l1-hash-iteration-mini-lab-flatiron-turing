@@ -1,6 +1,7 @@
 ### The Summer Olympics
-<img src="https://s3.amazonaws.com/after-school-assets/sydney.jpg" width="300px" align="right" hspace="10"> The Summer Olympics take place every four years in different location around the world. Using the data from the table below, create a hash `summer_olympics`, using the city as the hash's key and the year as the hash's value. Use `:symbols` instead of string for the keys.
+The Summer Olympics take place every four years in different location around the world. Using the data from the table below, create a hash `summer_olympics`, using the city as the hash's key and the year as the hash's value. Use `:symbols` instead of string for the keys.
 
+<img src="https://s3.amazonaws.com/after-school-assets/sydney.jpg" width="300px" align="left" hspace="20" style="margin: 20px 0px">
 
 |Place          | Year      |
 | ------------- |:---------:|
